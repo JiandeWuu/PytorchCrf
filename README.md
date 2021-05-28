@@ -9,6 +9,9 @@
 ## 介紹
 
 `Bilstm.py`：簡單的BiLSTM模型，包含Embedding與Linear。
+
 `Crf.py`：自製的CRF層
+
 `BilstmCrf.py`：組合BiLSTM+CRF模型
+
 `Trainer.py`：訓練模組
